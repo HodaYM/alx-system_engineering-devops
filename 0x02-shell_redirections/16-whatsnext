@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A3n "root" /etc/paswwd
+grep -A3 root /etc/paswwd
