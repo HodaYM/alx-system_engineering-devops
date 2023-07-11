@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt -n 10 | head
+head -n 10 /etch/passwd
